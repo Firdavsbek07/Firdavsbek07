@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, penetration testing, hacking
 - 🌱 I’m currently learning Python and Java Frameworks, Web dev, Android app dev
 - 💞️ I’m looking to collaborate on learning/strengthen new skills.
-- 📫 How to reach me ... DM me
+- 📫 How to reach me ... DM me on telegram @Firdavsbek
 
 <!---
 Firdavsbek07/Firdavsbek07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
