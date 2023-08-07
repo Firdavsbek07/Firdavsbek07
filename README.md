@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Firdavsbek07
 
-- 👀 I’m interested in software engineering, writing python scripts for business purposes, penetration testing, ethical hacking
-- 🌱 I’m currently learning Python and Java Frameworks, Web dev, Android app dev
+- 👀 I’m a software engineer and a web developer
+- 🌱 I’m currently working on my Python and Java Projects
+- 💞️ As a hobbie i write python scripts for business purposes, sharpen my Security penetration testing skills.
 - 💞️ I’m looking to collaborate on learning/strengthen new skills.
 - 📫 How to reach me ... DM me on telegram @Firdavsbek
 
