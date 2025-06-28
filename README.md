@@ -2,7 +2,7 @@
 
 - 👀 I’m a software engineer and a web developer
 - 🌱 I’m currently working on my Python and Java Projects
-- 💞️ As a hobbie i write python scripts for business purposes, sharpen my Security penetration testing skills.
+- 💞️ As a hobbie i make automating tools for businesses, sharpen my Security penetration testing skills.
 - 💞️ I’m looking to collaborate on learning/strengthen new skills.
 - 📫 How to reach me ... DM me on telegram @Firdavsbek
 
